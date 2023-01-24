@@ -8,7 +8,7 @@
       With margin
     </div>
     <div>
-      <v-text-field label="Label" color="secondary" variant="outlined" />
+      <v-text-field label="Label" color="secondary"  />
     </div>
   </v-app>
 </template>
